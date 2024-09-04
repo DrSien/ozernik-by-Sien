@@ -106,4 +106,3 @@ async def on_message(message):
 
 async def on_ready():
     await bot.tree.sync()
-bot.run('MTIyNzU3MzEyNTU3MTU0MzE0Mg.GpIbyx.X8ebJ-K4OC3HLWFLhpXvdXTeC2XY5akHxCIV9E')
